@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/FileDownloader.iml" filepath="$PROJECT_DIR$/FileDownloader.iml" />
-      <module fileurl="file://F:\Project\FileDownloader\FileDownloader.iml" filepath="F:\Project\FileDownloader\FileDownloader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://F:\Project\FileDownloader\demo\demo.iml" filepath="F:\Project\FileDownloader\demo\demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://F:\Project\FileDownloader\library\library.iml" filepath="F:\Project\FileDownloader\library\library.iml" />
-    </modules>
-  </component>
+    <component name="ProjectModuleManager">
+        <modules>
+            <module fileurl="file://$PROJECT_DIR$/FileDownloader.iml" filepath="$PROJECT_DIR$/FileDownloader.iml" />
+            <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+            <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+        </modules>
+    </component>
 </project>
